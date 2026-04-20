@@ -13,7 +13,8 @@ struct ContentView: View {
             Image(systemName: "Flag")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Fun with Git")
+            Text("Fun with Git and Jiantao")
+            Text("Gavin likes boys")
         }
         .padding()
     }
